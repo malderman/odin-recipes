@@ -1,2 +1,6 @@
 # odin-recipes
-Project: Recipes - build a basic recipe website
+Project: Build a basic recipe website.
+
+Description
+
+Basic website using HTML and images to display recipes.
