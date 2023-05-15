@@ -5,9 +5,9 @@
 }
 img {
     border: 5px solid darkslategray;
-    float: right;
+    float: left;
     height: auto;
-    margin: 5px;
+    margin: 30px;
     width: 500px;
 }
 .no-margin {
